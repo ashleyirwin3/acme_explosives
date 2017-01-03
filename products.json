@@ -1,0 +1,40 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "throwing_grenade": {
+            "id": 0,
+            "type": 0,
+            "name": "Throwing Grenade",
+            "description": "Something to throw at something you don't like."
+        },
+        "small_flamethrower": {
+            "id": 0,
+            "type": 0,
+            "name": "Small Flamethrower",
+            "description": "A flame thrower for smaller children."
+        },
+        "dragon_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Dragon Sparklers",
+            "description": "Dangerous sparkles that are not safe for children."
+        },
+        "giant_flamethrower": {
+            "id": 0,
+            "type": 0,
+            "name": "Giant Flamethrower",
+            "description": "A flamethrower for adults."
+        },
+        "max_bomb": {
+            "id": 0,
+            "type": 0,
+            "name": "Max Bomb",
+            "description": "A bomb if you're just done."
+        }
+    }]
+}

@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "dangerous",
+            "description": "Explosives that are very dangerous and you should probably not buy"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+    ]
+}
