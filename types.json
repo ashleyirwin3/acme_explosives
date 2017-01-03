@@ -15,8 +15,26 @@
         {
             "id": 0,
             "category": 0,
-            "name": "",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "large",
+            "description": "Things that will make a lot of stuff blow up"
         },
+         {
+            "id": 0,
+            "category": 1,
+            "name": "large",
+            "description": "Things that will make a lot of stuff blow up"
+        },
+         {
+            "id": 0,
+            "category": 1,
+            "name": "large",
+            "description": "Things that will make a lot of stuff blow up"
+        },
+         {
+            "id": 0,
+            "category": 1,
+            "name": "large",
+            "description": "Things that will make a lot of stuff blow up"
+        }
     ]
 }
